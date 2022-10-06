@@ -61,11 +61,10 @@ class Player:
                              "wins_solo": self.wins_solo,
                              "losses_solo": self.losses_solo
                             }
-        i = 0
-        for item in players_dict["players"]:
+
+        for i, item in enumerate(players_dict["players"]):
             if self.given_summoner_name == item["summoner_name"].lower().replace(" ", ""):
                 players_dict["players"][i] = summoner_to_update
 
                 with open("summoners_data.json", "w") as file:
                     json.dump(players_dict, file)
-            i += 1
