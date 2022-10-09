@@ -1,1 +1,85 @@
-{"players": [{"id": "zLscLsWKXctVe5SC58Q8x5zzAmo2JK0tLgKnmhLOLV0XN2w", "summoner_name": "iHaukka", "elo_solo": "GOLD", "rank_solo": "III", "lp_solo": 0, "wins_solo": 95, "losses_solo": 119}, {"id": "ywVsDchDm5f2uo5xoDpzf0Pbwm4qFNnkIqVnbaMcmKcdKG8", "summoner_name": "LanaKVallentine", "elo_solo": "GOLD", "rank_solo": "I", "lp_solo": 82, "wins_solo": 249, "losses_solo": 209}, {"id": "ypT6V0YrHBQQ_oOU8BG8Pxd1VPdCPWGNc5FQY_tQEU9dgps", "summoner_name": "chinchilanoob512", "elo_solo": "SILVER", "rank_solo": "III", "lp_solo": 60, "wins_solo": 46, "losses_solo": 56}, {"id": "af6JqQ-ZAL784DmNvD80TX-lrOKkKUHDr5kRR1M3GzrOu7c", "summoner_name": "termer2022", "elo_solo": "SILVER", "rank_solo": "IV", "lp_solo": 61, "wins_solo": 47, "losses_solo": 42}, {"id": "9ArD6kuQck1BnPjJft-9onIZDwa1H3n3yf8Ker2gQsICva8", "summoner_name": "johnsmith512", "elo_solo": "BRONZE", "rank_solo": "I", "lp_solo": 73, "wins_solo": 14, "losses_solo": 17}, {"id": "YkT8huXXtlpoA9sVmsQO0CVxMNY_21V0DTET3Qx9f6G6YRg", "summoner_name": "QDF Hazel", "elo_solo": "SILVER", "rank_solo": "IV", "lp_solo": 0, "wins_solo": 100, "losses_solo": 110}, {"id": "1KtM-4YXL19uj7NrQRIQr1cfY_pkjaTwtxOGBbBOyH-0j6M", "summoner_name": "LeoZzinz", "elo_solo": "BRONZE", "rank_solo": "I", "lp_solo": 14, "wins_solo": 44, "losses_solo": 49}, {"id": "T-QGGYaJvjXiC2DWUmnoktfttWo02kcYTlcsYMGwXyqZ8RMdoGGm_mK3jA", "summoner_name": "SurdoQueOuve", "elo_solo": "SILVER", "rank_solo": "III", "lp_solo": 42, "wins_solo": 64, "losses_solo": 58}, {"id": "0j_hfpncicK1RaRNkGCybEaUrq5DbwL6MUmxazExn0HIVbU", "summoner_name": "bilokah", "elo_solo": "BRONZE", "rank_solo": "I", "lp_solo": 28, "wins_solo": 149, "losses_solo": 125}]}
+{
+       "players": [
+              {
+                     "id": "Ayix4X-Kdg0cHEQ1a-H-SgvdLPiTibGrswkvGmUsXop2Ut8",
+                     "summoner_name": "iHaukka",
+                     "elo_solo": "GOLD",
+                     "rank_solo": "IV",
+                     "lp_solo": 5,
+                     "wins_solo": 100,
+                     "losses_solo": 131
+              },
+              {
+                     "id": "wyQbzOMxALaVlFELiZGtlFFZ-VpMaHm5uXRNw30wI52YUJI",
+                     "summoner_name": "LanaKVallentine",
+                     "elo_solo": "GOLD",
+                     "rank_solo": "I",
+                     "lp_solo": 83,
+                     "wins_solo": 254,
+                     "losses_solo": 213
+              },
+              {
+                     "id": "QunY-9XFJ9Lv0Na1M42Nag06I_jg_nn8E2GONvN9qIttW8g",
+                     "summoner_name": "chinchilanoob512",
+                     "elo_solo": "SILVER",
+                     "rank_solo": "III",
+                     "lp_solo": 74,
+                     "wins_solo": 48,
+                     "losses_solo": 57
+              },
+              {
+                     "id": "w_AYDca0eTIDt1fOsLBBFFiRtHBb6Fm90JI_cz754D7_MZE",
+                     "summoner_name": "termer2022",
+                     "elo_solo": "SILVER",
+                     "rank_solo": "IV",
+                     "lp_solo": 61,
+                     "wins_solo": 47,
+                     "losses_solo": 42
+              },
+              {
+                     "id": "r2Aol9-bySNVMYZqZatssPAvIj0S2MLcN6JLo0LkGVLR-nQ",
+                     "summoner_name": "johnsmith512",
+                     "elo_solo": "SILVER",
+                     "rank_solo": "IV",
+                     "lp_solo": 0,
+                     "wins_solo": 20,
+                     "losses_solo": 22
+              },
+              {
+                     "id": "Isu_ZCjC7JvQTsbhoB4tS3OkrIzRWmKaQpW6_CTUBVdG52s",
+                     "summoner_name": "QDF Hazel",
+                     "elo_solo": "SILVER",
+                     "rank_solo": "IV",
+                     "lp_solo": 71,
+                     "wins_solo": 111,
+                     "losses_solo": 115
+              },
+              {
+                     "id": "17xM13g7x4WxWYaQmz7B5Wade98KGpsGy6FRsT1dcj3DAEs",
+                     "summoner_name": "LeoZzinz",
+                     "elo_solo": "BRONZE",
+                     "rank_solo": "I",
+                     "lp_solo": 29,
+                     "wins_solo": 45,
+                     "losses_solo": 49
+              },
+              {
+                     "id": "oZ5p95Sg6qt5OLh7QiSGmEAmfBhINaZVKR4Foxx7vDqtn2tEtZ9i434dQg",
+                     "summoner_name": "SurdoQueOuve",
+                     "elo_solo": "SILVER",
+                     "rank_solo": "III",
+                     "lp_solo": 42,
+                     "wins_solo": 64,
+                     "losses_solo": 58
+              },
+              {
+                     "id": "YvokcuSZ0wXXjg1W0CdyEzdfGk-tLIx4tqXKOZLkjNr9uJw",
+                     "summoner_name": "bilokah",
+                     "elo_solo": "BRONZE",
+                     "rank_solo": "I",
+                     "lp_solo": 27,
+                     "wins_solo": 154,
+                     "losses_solo": 130
+              }
+       ]
+}

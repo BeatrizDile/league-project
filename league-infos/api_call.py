@@ -67,4 +67,4 @@ class Player:
                 players_dict["players"][i] = summoner_to_update
 
                 with open("summoners_data.json", "w") as file:
-                    json.dump(players_dict, file)
+                    json.dump(players_dict, file, indent=7)
