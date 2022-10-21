@@ -13,18 +13,19 @@ for i, name in enumerate(players_dict):
     player = Player(summoner_available)
     player.players_info()
 
-    if player.lp_solo > old_lp:
-        plus_lp = player.lp_solo - old_lp
-        print(f"{player.summoner_name} gained +{plus_lp} PDL!\n")
-        player.save_data_to_file()
+    if player.elo_solo == old_solo_elo:
+        print("Same elo.")
+        if player.lp_solo > old_lp:
+            plus_lp = player.lp_solo - old_lp
+            print(f"{player.summoner_name} gained +{plus_lp} PDL!\n")
+            player.save_data_to_file()
 
-    elif player.lp_solo < old_lp:
-        loss_lp = player.lp_solo - old_lp
-        print(f"{player.summoner_name} lost {loss_lp} PDL!\n")
-        player.save_data_to_file()
+        elif player.lp_solo < old_lp:
+            loss_lp = player.lp_solo - old_lp
+            print(f"{player.summoner_name} lost {loss_lp} PDL!\n")
+            player.save_data_to_file()
 
-    else:
-        print(f"{player.summoner_name} still has {player.lp_solo} PDL.\n")
-        player.save_data_to_file()
-
+        else:
+            print(f"{player.summoner_name} still has {player.lp_solo} PDL.\n")
+            player.save_data_to_file()
 
