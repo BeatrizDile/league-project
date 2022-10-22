@@ -6,6 +6,7 @@ with open("summoners_data.json", "r") as file:
 
 players_dict = summoners_data_file["players"]
 summoner_exists = False
+elo_list = ["BRONZE", "SILVER", "GOLD", "PLATINUM"]
 
 for i, name in enumerate(players_dict):
     summoner_available = name["summoner_name"].lower().replace(" ", "")
