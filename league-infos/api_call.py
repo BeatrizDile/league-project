@@ -30,9 +30,8 @@ class Player:
             url=f"https://br1.api.riotgames.com/lol/league/v4/entries/by-summoner/{self.summoner_id}?api_key={api_key}")
         elo_info.raise_for_status()
         elo_data = elo_info.json()
-        i = 0
 
-        for item in elo_data:
+        for i, item in enumerate(elo_data):
             if item["queueType"] == "RANKED_SOLO_5x5":
                 self.summoner_name = elo_data[i]["summonerName"]
                 self.elo_solo = elo_data[i]["tier"]
@@ -41,7 +40,6 @@ class Player:
                 self.wins_solo = elo_data[i]["wins"]
                 self.losses_solo = elo_data[i]["losses"]
                 self.win_rate_solo = round((self.wins_solo * 100) / (self.wins_solo + self.losses_solo), 1)
-            i += 1
 
     def players_info(self):
         print(f"{self.summoner_name}\n{self.elo_solo} {self.rank_solo}\nPDL: {self.lp_solo}\nWins: {self.wins_solo} - "

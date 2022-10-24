@@ -5,27 +5,27 @@
                      "summoner_name": "iHaukka",
                      "elo_solo": "GOLD",
                      "rank_solo": "IV",
-                     "lp_solo": 5,
-                     "wins_solo": 100,
-                     "losses_solo": 131
+                     "lp_solo": 16,
+                     "wins_solo": 102,
+                     "losses_solo": 133
               },
               {
                      "id": "wyQbzOMxALaVlFELiZGtlFFZ-VpMaHm5uXRNw30wI52YUJI",
                      "summoner_name": "LanaKVallentine",
                      "elo_solo": "GOLD",
                      "rank_solo": "I",
-                     "lp_solo": 83,
-                     "wins_solo": 254,
-                     "losses_solo": 213
+                     "lp_solo": 90,
+                     "wins_solo": 271,
+                     "losses_solo": 229
               },
               {
                      "id": "QunY-9XFJ9Lv0Na1M42Nag06I_jg_nn8E2GONvN9qIttW8g",
                      "summoner_name": "chinchilanoob512",
                      "elo_solo": "SILVER",
                      "rank_solo": "III",
-                     "lp_solo": 74,
-                     "wins_solo": 48,
-                     "losses_solo": 57
+                     "lp_solo": 70,
+                     "wins_solo": 51,
+                     "losses_solo": 61
               },
               {
                      "id": "w_AYDca0eTIDt1fOsLBBFFiRtHBb6Fm90JI_cz754D7_MZE",
@@ -40,46 +40,46 @@
                      "id": "r2Aol9-bySNVMYZqZatssPAvIj0S2MLcN6JLo0LkGVLR-nQ",
                      "summoner_name": "johnsmith512",
                      "elo_solo": "SILVER",
-                     "rank_solo": "IV",
-                     "lp_solo": 0,
-                     "wins_solo": 20,
-                     "losses_solo": 22
+                     "rank_solo": "III",
+                     "lp_solo": 29,
+                     "wins_solo": 30,
+                     "losses_solo": 26
               },
               {
                      "id": "Isu_ZCjC7JvQTsbhoB4tS3OkrIzRWmKaQpW6_CTUBVdG52s",
                      "summoner_name": "QDF Hazel",
                      "elo_solo": "SILVER",
                      "rank_solo": "IV",
-                     "lp_solo": 71,
-                     "wins_solo": 111,
-                     "losses_solo": 115
+                     "lp_solo": 28,
+                     "wins_solo": 121,
+                     "losses_solo": 128
               },
               {
                      "id": "17xM13g7x4WxWYaQmz7B5Wade98KGpsGy6FRsT1dcj3DAEs",
                      "summoner_name": "LeoZzinz",
                      "elo_solo": "BRONZE",
-                     "rank_solo": "I",
-                     "lp_solo": 29,
-                     "wins_solo": 45,
-                     "losses_solo": 49
+                     "rank_solo": "II",
+                     "lp_solo": 68,
+                     "wins_solo": 49,
+                     "losses_solo": 57
               },
               {
                      "id": "oZ5p95Sg6qt5OLh7QiSGmEAmfBhINaZVKR4Foxx7vDqtn2tEtZ9i434dQg",
                      "summoner_name": "SurdoQueOuve",
                      "elo_solo": "SILVER",
                      "rank_solo": "III",
-                     "lp_solo": 42,
-                     "wins_solo": 64,
-                     "losses_solo": 58
+                     "lp_solo": 38,
+                     "wins_solo": 73,
+                     "losses_solo": 68
               },
               {
                      "id": "YvokcuSZ0wXXjg1W0CdyEzdfGk-tLIx4tqXKOZLkjNr9uJw",
                      "summoner_name": "bilokah",
-                     "elo_solo": "BRONZE",
-                     "rank_solo": "I",
-                     "lp_solo": 27,
-                     "wins_solo": 154,
-                     "losses_solo": 130
+                     "elo_solo": "SILVER",
+                     "rank_solo": "IV",
+                     "lp_solo": 35,
+                     "wins_solo": 172,
+                     "losses_solo": 142
               }
        ]
 }
