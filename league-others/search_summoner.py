@@ -23,6 +23,7 @@ def search_summoner(nick):
 
     current_url = driver.current_url
     print(current_url)
+    driver.save_screenshot(f"images/summoner_print.png")
 
 
 summoners = input("Summoner Names: ")
