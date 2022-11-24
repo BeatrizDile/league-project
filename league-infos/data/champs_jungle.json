@@ -1,0 +1,274 @@
+{
+    "champs": [
+        {
+            "name": "Mordekaiser",
+            "popularity": "4.3%",
+            "winrate": "55.9%",
+            "banrate": "10.4%"
+        },
+        {
+            "name": "Trundle",
+            "popularity": "3.2%",
+            "winrate": "55.2%",
+            "banrate": "2.6%"
+        },
+        {
+            "name": "Shyvana",
+            "popularity": "3.7%",
+            "winrate": "54.0%",
+            "banrate": "1.4%"
+        },
+        {
+            "name": "Wukong",
+            "popularity": "5.0%",
+            "winrate": "53.3%",
+            "banrate": "2.7%"
+        },
+        {
+            "name": "Vi",
+            "popularity": "4.1%",
+            "winrate": "52.9%",
+            "banrate": "1.0%"
+        },
+        {
+            "name": "Nocturne",
+            "popularity": "3.0%",
+            "winrate": "52.7%",
+            "banrate": "1.5%"
+        },
+        {
+            "name": "Fiddlesticks",
+            "popularity": "2.4%",
+            "winrate": "52.7%",
+            "banrate": "3.4%"
+        },
+        {
+            "name": "Dr. Mundo",
+            "popularity": "2.1%",
+            "winrate": "52.5%",
+            "banrate": "3.2%"
+        },
+        {
+            "name": "Master Yi",
+            "popularity": "6.6%",
+            "winrate": "52.3%",
+            "banrate": "17.6%"
+        },
+        {
+            "name": "Olaf",
+            "popularity": "0.5%",
+            "winrate": "52.2%",
+            "banrate": "1.5%"
+        },
+        {
+            "name": "Lillia",
+            "popularity": "4.8%",
+            "winrate": "52.0%",
+            "banrate": "3.4%"
+        },
+        {
+            "name": "Skarner",
+            "popularity": "0.8%",
+            "winrate": "52.0%",
+            "banrate": "0.1%"
+        },
+        {
+            "name": "Ekko",
+            "popularity": "8.4%",
+            "winrate": "51.9%",
+            "banrate": "8.3%"
+        },
+        {
+            "name": "Elise",
+            "popularity": "3.5%",
+            "winrate": "51.9%",
+            "banrate": "6.4%"
+        },
+        {
+            "name": "Xin Zhao",
+            "popularity": "2.0%",
+            "winrate": "51.7%",
+            "banrate": "0.4%"
+        },
+        {
+            "name": "Evelynn",
+            "popularity": "5.1%",
+            "winrate": "51.6%",
+            "banrate": "9.6%"
+        },
+        {
+            "name": "Udyr",
+            "popularity": "6.8%",
+            "winrate": "51.6%",
+            "banrate": "17.2%"
+        },
+        {
+            "name": "Warwick",
+            "popularity": "3.8%",
+            "winrate": "51.4%",
+            "banrate": "2.4%"
+        },
+        {
+            "name": "Kha'Zix",
+            "popularity": "5.9%",
+            "winrate": "51.3%",
+            "banrate": "2.6%"
+        },
+        {
+            "name": "Sejuani",
+            "popularity": "4.2%",
+            "winrate": "51.2%",
+            "banrate": "2.7%"
+        },
+        {
+            "name": "Volibear",
+            "popularity": "1.8%",
+            "winrate": "50.6%",
+            "banrate": "1.3%"
+        },
+        {
+            "name": "Jarvan IV",
+            "popularity": "2.2%",
+            "winrate": "50.3%",
+            "banrate": "0.2%"
+        },
+        {
+            "name": "Bel'Veth",
+            "popularity": "4.2%",
+            "winrate": "50.1%",
+            "banrate": "22.1%"
+        },
+        {
+            "name": "Rammus",
+            "popularity": "3.8%",
+            "winrate": "50.0%",
+            "banrate": "11.9%"
+        },
+        {
+            "name": "Sylas",
+            "popularity": "4.5%",
+            "winrate": "50.0%",
+            "banrate": "11.1%"
+        },
+        {
+            "name": "Kindred",
+            "popularity": "5.4%",
+            "winrate": "49.9%",
+            "banrate": "4.8%"
+        },
+        {
+            "name": "Nunu & Willump",
+            "popularity": "2.2%",
+            "winrate": "49.7%",
+            "banrate": "0.7%"
+        },
+        {
+            "name": "Diana",
+            "popularity": "5.0%",
+            "winrate": "49.7%",
+            "banrate": "4.6%"
+        },
+        {
+            "name": "Hecarim",
+            "popularity": "11.9%",
+            "winrate": "49.6%",
+            "banrate": "32.5%"
+        },
+        {
+            "name": "Rek'Sai",
+            "popularity": "1.4%",
+            "winrate": "49.3%",
+            "banrate": "1.8%"
+        },
+        {
+            "name": "Rengar",
+            "popularity": "4.5%",
+            "winrate": "49.3%",
+            "banrate": "4.0%"
+        },
+        {
+            "name": "Kayn",
+            "popularity": "8.4%",
+            "winrate": "49.0%",
+            "banrate": "10.8%"
+        },
+        {
+            "name": "Graves",
+            "popularity": "10.0%",
+            "winrate": "48.9%",
+            "banrate": "14.0%"
+        },
+        {
+            "name": "Amumu",
+            "popularity": "1.8%",
+            "winrate": "48.8%",
+            "banrate": "5.8%"
+        },
+        {
+            "name": "Gragas",
+            "popularity": "1.0%",
+            "winrate": "48.8%",
+            "banrate": "0.5%"
+        },
+        {
+            "name": "Shaco",
+            "popularity": "4.5%",
+            "winrate": "48.7%",
+            "banrate": "12.3%"
+        },
+        {
+            "name": "Ivern",
+            "popularity": "0.8%",
+            "winrate": "48.7%",
+            "banrate": "0.3%"
+        },
+        {
+            "name": "Viego",
+            "popularity": "7.9%",
+            "winrate": "48.3%",
+            "banrate": "5.0%"
+        },
+        {
+            "name": "Talon",
+            "popularity": "2.3%",
+            "winrate": "48.2%",
+            "banrate": "1.5%"
+        },
+        {
+            "name": "Karthus",
+            "popularity": "1.6%",
+            "winrate": "48.1%",
+            "banrate": "1.3%"
+        },
+        {
+            "name": "Taliyah",
+            "popularity": "0.8%",
+            "winrate": "47.8%",
+            "banrate": "0.6%"
+        },
+        {
+            "name": "Poppy",
+            "popularity": "1.3%",
+            "winrate": "47.6%",
+            "banrate": "1.5%"
+        },
+        {
+            "name": "Zac",
+            "popularity": "3.5%",
+            "winrate": "47.4%",
+            "banrate": "3.5%"
+        },
+        {
+            "name": "Lee Sin",
+            "popularity": "9.9%",
+            "winrate": "47.3%",
+            "banrate": "5.5%"
+        },
+        {
+            "name": "Nidalee",
+            "popularity": "2.6%",
+            "winrate": "46.2%",
+            "banrate": "1.4%"
+        }
+    ]
+}
